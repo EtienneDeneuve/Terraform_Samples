@@ -1,0 +1,2 @@
+"Name","Description","Priority","Protocol","Access","Direction","SourceAddressPrefix","SourcePortRange","DestinationAddressPrefix","DestinationPortRange"
+"Allow-InteractiveClient-and-RuntimeResources-to-AppServer",,"100","TCP","Allow","Inbound","","*","",""
