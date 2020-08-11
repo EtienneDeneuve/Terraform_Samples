@@ -1,3 +1,9 @@
+# How to bulk create nsg rules based on CSV
+
+1. You need create multiple CSV for each environnement like the model in UAT.csv
+2. launch the PowerShell Script to split it correctly
+3. terraform init && terraform plan
+
 ## Providers
 
 | Name | Version |
